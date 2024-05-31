@@ -1,1 +1,1 @@
-# InternPadia
+# InternPedia
